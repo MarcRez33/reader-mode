@@ -118,6 +118,7 @@ export default class ReaderModeOptions extends Component {
                   <option value="Times New Roman">Times New Roman</option>
                   <option value="Courier New">Courier New</option>
                   <option value="Courier">Courier</option>
+                  <option value="Palatino">Palatino</option>
                 </select>
               </div>
               <div class="reader-mode-options__section-item">
