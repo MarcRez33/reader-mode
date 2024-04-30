@@ -132,7 +132,7 @@
   }
 
   .container.posts .topic-navigation {
-    z-index: 102;
+    z-index: 103;
   }
 
   .timeline-controls .btn:not(.reader-mode-toggle),
@@ -145,7 +145,8 @@
     color: var(--tertiary);
   }
 
-  .topic-avatar img {
+  .topic-avatar img,
+  .topic-avatar .avatar-flair {
     opacity: 0.125;
     transition: opacity 0.3s;
     filter: grayscale(1);
